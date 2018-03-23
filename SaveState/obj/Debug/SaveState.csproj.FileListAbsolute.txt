@@ -1,0 +1,14 @@
+C:\Users\Eric\source\repos\SaveState\SaveState\bin\Debug\SaveState.exe.config
+C:\Users\Eric\source\repos\SaveState\SaveState\bin\Debug\SaveState.exe
+C:\Users\Eric\source\repos\SaveState\SaveState\bin\Debug\SaveState.pdb
+C:\Users\Eric\source\repos\SaveState\SaveState\obj\Debug\SaveState.csprojResolveAssemblyReference.cache
+C:\Users\Eric\source\repos\SaveState\SaveState\obj\Debug\SaveState.Form1.resources
+C:\Users\Eric\source\repos\SaveState\SaveState\obj\Debug\SaveState.Properties.Resources.resources
+C:\Users\Eric\source\repos\SaveState\SaveState\obj\Debug\SaveState.csproj.GenerateResource.Cache
+C:\Users\Eric\source\repos\SaveState\SaveState\obj\Debug\SaveState.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\SaveState\SaveState\obj\Debug\SaveState.exe
+C:\Users\Eric\source\repos\SaveState\SaveState\obj\Debug\SaveState.pdb
+C:\Users\Eric\source\repos\SaveState\SaveState\bin\Debug\SharpDX.dll
+C:\Users\Eric\source\repos\SaveState\SaveState\bin\Debug\SharpDX.xml
+C:\Users\Eric\source\repos\SaveState\SaveState\bin\Debug\SharpDX.XInput.dll
+C:\Users\Eric\source\repos\SaveState\SaveState\bin\Debug\SharpDX.XInput.xml

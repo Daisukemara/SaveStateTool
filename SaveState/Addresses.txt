@@ -1,0 +1,11 @@
+﻿Lives,0x174B024,2
+Rings,0x0174B028,2
+Score,0x0174B050,4
+Kart Boost,0x01D96F48,1
+Current Action,0x01DEA6E4,1
+Time Minutes,0x0174AFDB,1
+Time Seconds,0x0174AFDC,1
+Time Centiseconds,0x0174AFDD,1
+X Gravity,0x01DE94A0,4
+Y Gravity,0x01DE9A4,4
+Z Gravity,0x01DE9A8,4
